@@ -1,2 +1,0 @@
-# Sukuna
-Group help bot 
